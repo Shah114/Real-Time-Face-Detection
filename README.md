@@ -14,7 +14,7 @@ Make sure to have the following installed: </br>
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/realtime-face-detection.git
+   git clone https://github.com/Shah114/Realtime-Face-Detection.git
    cd realtime-face-detection
    ```
 
@@ -22,3 +22,6 @@ Make sure to have the following installed: </br>
    ```python
    pip install -r requirements.txt
    ```
+
+3. Download the YOLOv8 face detection model:
+The model will be downloaded automatically from Hugging Face during runtime. Ensure you have an active internet connection.
