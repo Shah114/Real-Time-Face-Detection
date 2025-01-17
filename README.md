@@ -25,3 +25,19 @@ Make sure to have the following installed: </br>
 
 3. Download the YOLOv8 face detection model:
 The model will be downloaded automatically from Hugging Face during runtime. Ensure you have an active internet connection.
+
+## Running the Application
+1. Launch the Streamlit app:
+   ```python
+   streamlit run app.py
+   ```
+
+2. Use the interface to start and stop the webcam feed.
+
+3. Press the "Start" button to begin detection. Press "Stop" to end the detection.
+
+## File Structure
+* app.py: Main Python file for the Streamlit application.
+* requirements.txt: List of Python dependencies.
+
+## Screenshots
