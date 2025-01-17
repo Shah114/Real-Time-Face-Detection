@@ -10,3 +10,15 @@ This project demonstrates a real-time face detection application using the YOLOv
 Make sure to have the following installed: </br>
 * Python 3.8 or higher
 * Libraries: streamlit, opencv-python, Pillow, numpy, ultralytics, supervision, huggingface_hub
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/realtime-face-detection.git
+   cd realtime-face-detection
+   ```
+
+2. Install the required dependencies:
+   ```python
+   pip install -r requirements.txt
+   ```
